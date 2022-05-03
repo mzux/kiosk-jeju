@@ -4,35 +4,47 @@
 
 ### 1. 홈 화면에서 주민등록 전입신고 서식을 선택해주세요.
 
-![[how-to-전입신고-001.png]]
+![](https://raw.githubusercontent.com/mzux/kiosk-jeju/main/\_images/how-to-%EC%A0%84%EC%9E%85%EC%8B%A0%EA%B3%A0-001.png)
 
 ### 2. 작성 자격을 확인 후 ‘예’ 또는 ‘아니오’를 선택 해주세요.
 
-![[how-to-전입신고-002.png]]
+![](https://raw.githubusercontent.com/mzux/kiosk-jeju/main/\_images/how-to-%EC%A0%84%EC%9E%85%EC%8B%A0%EA%B3%A0-002.png)
+
+!\[\[how-to-전입신고-002.png]]
 
 ### 3. 작성자의 세대주 여부를 확인해주세요.
 
-![[how-to-전입신고-003.png]]
+![](https://raw.githubusercontent.com/mzux/kiosk-jeju/main/\_images/how-to-%EC%A0%84%EC%9E%85%EC%8B%A0%EA%B3%A0-003.png)
+
+!\[\[how-to-전입신고-003.png]]
 
 ### 4. 주민등록 전입신고의 유의사항을 읽고 확인 버튼을 눌러주세요.
 
 스크롤을 이용해서 나머지 내용을 확인해주세요.
 
-![[how-to-전입신고-004.png]]
+![](https://raw.githubusercontent.com/mzux/kiosk-jeju/main/\_images/how-to-%EC%A0%84%EC%9E%85%EC%8B%A0%EA%B3%A0-004.png)
+
+!\[\[how-to-전입신고-004.png]]
 
 ### 5. 전입신고 작성에 필요한 첨부서류를 읽고 확인 버튼을 눌러주세요.
 
-![[how-to-전입신고-005.png]]
+![](https://raw.githubusercontent.com/mzux/kiosk-jeju/main/\_images/how-to-%EC%A0%84%EC%9E%85%EC%8B%A0%EA%B3%A0-005.png)
+
+!\[\[how-to-전입신고-005.png]]
 
 ### 6. 본인 인증 방법을 선택해주세요.
 
 PASS 인증의 경우 주민번호를 별도로 입력해주세요.
 
-![[how-to-전입신고-006.png]]
+![](https://raw.githubusercontent.com/mzux/kiosk-jeju/main/\_images/how-to-%EC%A0%84%EC%9E%85%EC%8B%A0%EA%B3%A0-001.png)
+
+!\[\[how-to-전입신고-006.png]]
 
 ### 7. 전입신고에서 작성할 문서를 선택해주세요.
 
-![[how-to-전입신고-007.png]]
+![](https://raw.githubusercontent.com/mzux/kiosk-jeju/main/\_images/how-to-%EC%A0%84%EC%9E%85%EC%8B%A0%EA%B3%A0-007.png)
+
+!\[\[how-to-전입신고-007.png]]
 
 ### 8. 전입자 (신고인) 정보를 입력해주세요.
 
@@ -42,26 +54,36 @@ PASS 인증의 경우 주민번호를 별도로 입력해주세요.
 
 8.3 작성 후 다음 버튼을 눌러주세요.
 
-![[how-to-전입신고-008.png]]
+![](https://raw.githubusercontent.com/mzux/kiosk-jeju/main/\_images/how-to-%EC%A0%84%EC%9E%85%EC%8B%A0%EA%B3%A0-008.png)
+
+!\[\[how-to-전입신고-008.png]]
 
 ### 9. 현재 사는 곳 (이사할 곳) 정보를 입력해주세요.
 
 주소, 다가구 주택, 연락처 정보를 입력하고 다음 버튼을 눌러주세요.
 
-![[how-to-전입신고-009.png]]
+![](https://raw.githubusercontent.com/mzux/kiosk-jeju/main/\_images/how-to-%EC%A0%84%EC%9E%85%EC%8B%A0%EA%B3%A0-009.png)
+
+!\[\[how-to-전입신고-009.png]]
 
 ### 10. 전입사유를 선택해주세요.
 
 1개 선택 후 다음 버튼을 눌러주세요.
 
-![[how-to-전입신고-010.png]]
+![](https://raw.githubusercontent.com/mzux/kiosk-jeju/main/\_images/how-to-%EC%A0%84%EC%9E%85%EC%8B%A0%EA%B3%A0-010.png)
+
+!\[\[how-to-전입신고-010.png]]
 
 ### 11. 우편물 접입지 전송 서비스 신청 유무를 선택해주세요.
 
 우편물 전입지 전송 서비스 신청
 
-![[how-to-전입신고-011.png]]
+![](https://raw.githubusercontent.com/mzux/kiosk-jeju/main/\_images/how-to-%EC%A0%84%EC%9E%85%EC%8B%A0%EA%B3%A0-011.png)
+
+!\[\[how-to-전입신고-011.png]]
 
 ### 12. 작성을 완료했습니다. 확인 버튼을 선택해주세요.
 
-![[how-to-전입신고-012.png]]
+![](https://raw.githubusercontent.com/mzux/kiosk-jeju/main/\_images/how-to-%EC%A0%84%EC%9E%85%EC%8B%A0%EA%B3%A0-012.png)
+
+!\[\[how-to-전입신고-012.png]]
