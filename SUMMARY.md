@@ -3,11 +3,9 @@
 ## 개요 <a href="#index" id="index"></a>
 
 * [지능형 민원서식 작성 도우미](README.md)
-  * [민원서식 작성 서비스](index/page1-1.md)
-* [기본 사용 가이드](basic-info/README.md)
   * [키오스크](basic-info/kiosk.md)
-  * [Chatbot](basic-info/Chatbot.md)
-  * [Authentication](basic-info/Authentication.md)
+  * [챗봇](basic-info/Chatbot.md)
+  * [인증방법](basic-info/Authentication.md)
 
 ## 민원서식 작성 방법 <a href="#forms" id="forms"></a>
 
