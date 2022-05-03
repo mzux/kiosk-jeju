@@ -4,8 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "8b7797ee41dae23d",
+        "id": "e50fad62bf292394",
         "type": "leaf",
+        "dimension": 36.83483068417415,
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      },
+      {
+        "id": "c280f100e7428bf3",
+        "type": "leaf",
+        "dimension": 63.16516931582584,
         "state": {
           "type": "markdown",
           "state": {
@@ -87,15 +97,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8b7797ee41dae23d",
+  "active": "c280f100e7428bf3",
   "lastOpenFiles": [
     "SUMMARY.md",
     "another-page.md",
-    "part1/page1-2.md",
-    "page1/README.md",
-    "page1/page1-1.md",
-    "page2/page2-1.md",
+    "index/README.md",
+    "index/page1-1.md",
     "page2/README.md",
-    "part2/page2-2.md"
+    "part2/page2-2.md",
+    "part1/page1-2.md",
+    "page2/page2-1.md"
   ]
 }
