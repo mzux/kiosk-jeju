@@ -6,13 +6,11 @@
       {
         "id": "e50fad62bf292394",
         "type": "leaf",
-        "dimension": 61.85210780926054,
+        "dimension": 68.87966804979253,
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "forms/jonipssingo/how-to.md",
-            "mode": "source",
-            "source": false
+            "file": "_images/Pasted image 20220503115021.png"
           }
         },
         "group": "48bfd2663ac38264"
@@ -20,11 +18,11 @@
       {
         "id": "47023e44f1007156",
         "type": "leaf",
-        "dimension": 38.14789219073946,
+        "dimension": 31.12033195020747,
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "forms/jonipssingo/how-to.md",
+            "file": "_images/Pasted image 20220503115021.png",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -47,7 +45,7 @@
               "repelStrength": 10,
               "linkStrength": 1,
               "linkDistance": 250,
-              "scale": 0.5087618855792587,
+              "scale": 0.5359795996225937,
               "close": false
             }
           }
@@ -92,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 301
   },
   "right": {
     "id": "8c46637497c59657",
@@ -108,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "forms/jonipssingo/how-to.md",
+                "file": "_images/Pasted image 20220503115021.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,17 +124,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e50fad62bf292394",
+  "active": "47023e44f1007156",
   "lastOpenFiles": [
+    "_images/Pasted image 20220503115021.png",
+    "_images/how-to-전입신고-001.png",
+    "_images/Pasted image 20220503115113.png",
+    "_images/Pasted image 20220503115403.png",
     "forms/jonipssingo/how-to.md",
+    "SUMMARY.md",
+    "_images/전입신고 가이드.png",
     "forms/jonipssingo/README.md",
     "forms/jonipssingo/guide.md",
-    "forms/README.md",
-    "SUMMARY.md",
-    "index/page1-1.md",
-    "support/Contact.md",
-    "_images/Pasted image 20220503115013.png",
-    "_images/전입신고 가이드.png",
-    "basic-info/Authentication.md"
+    "_images/민원서식 장비 샘플 이미지.png"
   ]
 }
