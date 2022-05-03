@@ -1,13 +1,13 @@
 # Table of contents
 
-## 개요
+## 개요 <a href="#index" id="index"></a>
 
 * [지능형 민원서식 작성 도우미](README.md)
-  * [민원서식 작성 서비스](index/page1-1.md)
-* [기본 사용 가이드](basic-info/README.md)
-  * [키오스크](basic-info/kiosk.md)
-  * [Chatbot](basic-info/Chatbot.md)
-  * [Authentication](basic-info/Authentication.md)
+  * [민원서식 작성 서비스](index/overview/page1-1.md)
+* [기본 사용 가이드](index/basic-info/README.md)
+  * [키오스크](index/basic-info/kiosk.md)
+  * [Chatbot](index/basic-info/chatbot.md)
+  * [Authentication](index/basic-info/authentication.md)
 
 ## 민원서식 작성 방법 <a href="#forms" id="forms"></a>
 
@@ -18,4 +18,4 @@
 
 ## 문제 발생
 
-* [Contact](undefined-1/contact.md)
+* [Contact](undefined/contact.md)
