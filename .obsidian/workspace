@@ -8,9 +8,11 @@
         "type": "leaf",
         "dimension": 68.87966804979253,
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "_images/Pasted image 20220503115021.png"
+            "file": "forms/jonipssingo/guide.md",
+            "mode": "source",
+            "source": false
           }
         },
         "group": "48bfd2663ac38264"
@@ -22,7 +24,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "_images/Pasted image 20220503115021.png",
+            "file": "forms/jonipssingo/guide.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -106,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_images/Pasted image 20220503115021.png",
+                "file": "forms/jonipssingo/guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,17 +126,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "47023e44f1007156",
+  "active": "e50fad62bf292394",
   "lastOpenFiles": [
-    "_images/Pasted image 20220503115021.png",
-    "_images/how-to-전입신고-001.png",
-    "_images/Pasted image 20220503115113.png",
-    "_images/Pasted image 20220503115403.png",
-    "forms/jonipssingo/how-to.md",
-    "SUMMARY.md",
-    "_images/전입신고 가이드.png",
-    "forms/jonipssingo/README.md",
     "forms/jonipssingo/guide.md",
-    "_images/민원서식 장비 샘플 이미지.png"
+    "forms/jonipssingo/how-to.md",
+    "forms/jonipssingo/README.md",
+    "_images/how-to-전입신고-012.png",
+    "_images/how-to-전입신고-011.png",
+    "_images/how-to-전입신고-010.png",
+    "_images/how-to-전입신고-009.png",
+    "_images/how-to-전입신고-008.png",
+    "_images/how-to-전입신고-007.png",
+    "_images/how-to-전입신고-006.png"
   ]
 }
