@@ -6,20 +6,10 @@
       {
         "id": "e50fad62bf292394",
         "type": "leaf",
-        "dimension": 36.83483068417415,
-        "state": {
-          "type": "graph",
-          "state": {}
-        }
-      },
-      {
-        "id": "c280f100e7428bf3",
-        "type": "leaf",
-        "dimension": 63.16516931582584,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SUMMARY.md",
+            "file": "form/README.md",
             "mode": "source",
             "source": false
           }
@@ -79,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "form/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c280f100e7428bf3",
+  "active": "e50fad62bf292394",
   "lastOpenFiles": [
+    "form/README.md",
     "SUMMARY.md",
-    "another-page.md",
-    "index/README.md",
+    "images/민원서식 장비 샘플 이미지.png",
+    "images/btn_k_chatbot_normal.png",
+    "form/jonipssingo.md",
+    "basic-info/Chatbot.md",
+    "index/Chatbot.md",
+    "basic-info/kiosk.md",
     "index/page1-1.md",
-    "page2/README.md",
-    "part2/page2-2.md",
-    "part1/page1-2.md",
-    "page2/page2-1.md"
+    "index.md"
   ]
 }
