@@ -10,10 +10,10 @@
 ## 민원서식 작성 방법 <a href="#forms" id="forms"></a>
 
 * [작성 가능 민원서식](forms/README.md)
-* [전입신고](forms/jonipssingo/README.md)
+* [1. 전입신고](forms/jonipssingo/README.md)
   * [전입신고 조건 가이드](forms/jonipssingo/guide.md)
   * [전입신고 작성 방법](forms/jonipssingo/how-to.md)
 
 ## 문제 발생 <a href="#support" id="support"></a>
 
-* [연락처](support/contact.md)
+* [연락처](undefined-1/contact.md)
