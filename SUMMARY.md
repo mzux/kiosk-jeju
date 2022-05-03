@@ -11,8 +11,9 @@
 
 ## 민원서식 작성 방법
 * [작성 가능 민원서식](forms/README.md)
-* [전입신고](how-to.md)
-	* [전입신고 조건 가이드](guide.md)
+* [전입신고](jonipssingo/README.md)
+	* [전입신고 조건 가이드](jonipssingo/guide.md)
+	* [전입신고 작성 방법](jonipssingo/how-to.md)
 
 ## 문제 발생
-* Contact
+* [Contact](support/Contact.md)

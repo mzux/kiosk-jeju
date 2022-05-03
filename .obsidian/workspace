@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "forms/jonipssingo/guide.md",
+            "file": "SUMMARY.md",
             "mode": "source",
             "source": false
           }
@@ -24,7 +24,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "forms/jonipssingo/guide.md",
+            "file": "SUMMARY.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -38,7 +38,7 @@
               "collapse-color-groups": true,
               "colorGroups": [],
               "collapse-display": true,
-              "showArrow": false,
+              "showArrow": true,
               "textFadeMultiplier": 0,
               "nodeSizeMultiplier": 1,
               "lineSizeMultiplier": 1,
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "forms/jonipssingo/guide.md",
+                "file": "SUMMARY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,15 +128,15 @@
   },
   "active": "e50fad62bf292394",
   "lastOpenFiles": [
-    "forms/jonipssingo/guide.md",
-    "forms/jonipssingo/how-to.md",
-    "forms/jonipssingo/README.md",
     "SUMMARY.md",
+    "support/Contact.md",
+    "forms/jonipssingo/how-to.md",
+    "forms/jonipssingo/guide.md",
+    "forms/jonipssingo/README.md",
     "_images/Pasted image 20220503115013.png",
     "forms/README.md",
     "_images/전입신고 가이드.png",
     "basic-info/Authentication.md",
-    "index/page1-1.md",
-    "_images/민원서식 장비 샘플 이미지.png"
+    "index/page1-1.md"
   ]
 }
