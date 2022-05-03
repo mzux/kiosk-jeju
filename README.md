@@ -1,7 +1,3 @@
----
-layout: landing
----
-
 # 지능형 민원서식 작성 도우미
 
 ![](https://raw.githubusercontent.com/mzux/kiosk-jeju/main/\_images/%EB%AF%BC%EC%9B%90%EC%84%9C%EC%8B%9D%20%EC%9E%A5%EB%B9%84%20%EC%83%98%ED%94%8C%20%EC%9D%B4%EB%AF%B8%EC%A7%80.png)
