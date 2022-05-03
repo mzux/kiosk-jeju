@@ -6,14 +6,53 @@
       {
         "id": "e50fad62bf292394",
         "type": "leaf",
+        "dimension": 61.85210780926054,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "form/README.md",
+            "file": "forms/jonipssingo/guide.md",
             "mode": "source",
             "source": false
           }
-        }
+        },
+        "group": "48bfd2663ac38264"
+      },
+      {
+        "id": "47023e44f1007156",
+        "type": "leaf",
+        "dimension": 38.14789219073946,
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "forms/jonipssingo/guide.md",
+            "options": {
+              "collapse-filter": true,
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": true,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": true,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 0.5087618855792587,
+              "close": false
+            }
+          }
+        },
+        "group": "48bfd2663ac38264"
       }
     ],
     "direction": "vertical"
@@ -69,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "form/README.md",
+                "file": "forms/jonipssingo/guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +128,15 @@
   },
   "active": "e50fad62bf292394",
   "lastOpenFiles": [
-    "form/README.md",
+    "forms/jonipssingo/guide.md",
+    "forms/jonipssingo/how-to.md",
+    "forms/jonipssingo/README.md",
     "SUMMARY.md",
-    "images/민원서식 장비 샘플 이미지.png",
-    "images/btn_k_chatbot_normal.png",
-    "form/jonipssingo.md",
-    "basic-info/Chatbot.md",
-    "index/Chatbot.md",
-    "basic-info/kiosk.md",
+    "_images/Pasted image 20220503115013.png",
+    "forms/README.md",
+    "_images/전입신고 가이드.png",
+    "basic-info/Authentication.md",
     "index/page1-1.md",
-    "index.md"
+    "_images/민원서식 장비 샘플 이미지.png"
   ]
 }
