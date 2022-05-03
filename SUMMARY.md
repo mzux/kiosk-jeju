@@ -9,13 +9,13 @@
   * [Chatbot](basic-info/Chatbot.md)
   * [Authentication](basic-info/Authentication.md)
 
-## 민원서식 작성 방법
+## 민원서식 작성 방법 <a href="#forms" id="forms"></a>
 
 * [작성 가능 민원서식](forms/README.md)
-* [전입신고](undefined-1/undefined/README.md)
-  * [전입신고 조건 가이드](undefined-1/undefined/undefined.md)
-  * [전입신고 작성 방법](undefined-1/undefined/undefined-1.md)
+* [전입신고](forms/jonipssingo/README.md)
+  * [전입신고 조건 가이드](forms/jonipssingo/guide.md)
+  * [전입신고 작성 방법](forms/jonipssingo/how-to.md)
 
 ## 문제 발생
 
-* [Contact](support/Contact.md)
+* [Contact](undefined-1/contact.md)
