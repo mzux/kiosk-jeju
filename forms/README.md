@@ -5,10 +5,10 @@
 ## 작성 가능 서식
 
 1. [전입신고](001-jonipssingo/)
-2. [주민등록증 재발급신청서](002-jd\_jaebalgeup.md)
-3. [주민등록 전입세대 열람 신청](003-jd\_yolram.md)
-4. [사회보장급여 신청(변경)서](004-sahwebojang.md)
-5. [출생 신고서](005-chulsaeng\_singoso.md)
+2. [주민등록증 재발급신청서](forms/002-jd_jaebalgeup/README.md)
+3. [주민등록 전입세대 열람 신청](forms/003-jd_yolram/README.md)
+4. [사회보장급여 신청(변경)서](forms/004-sahwebojang/README.md)
+5. [출생 신고서](forms/005-chulsaeng_singoso/README.md)
 6. 문화이용권 신청서
 7. 사망자 등 재산조회 통합 처리 신청
 8. 아동급식 신청(추천)서
