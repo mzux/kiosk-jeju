@@ -2,13 +2,17 @@
 
 ## 전입신고 작성 방법
 
-### 1. 홈 화면에서 주민등록 전입신고 서식을 선택해주세요.
+### 1. 서식선택
 
-![](../../.gitbook/assets/how-to-전입신고-001.png)
+홈 화면에서 주민등록 전입신고 서식을 선택해주세요.
 
-### 2. 작성 자격을 확인 후 ‘예’ 또는 ‘아니오’를 선택 해주세요.
+![](https://raw.githubusercontent.com/mzux/kiosk-jeju/main/forms/001-jonipssingo/\_imgs/how-to-001-jonipssingo-001.png)
 
-![](https://raw.githubusercontent.com/mzux/kiosk-jeju/main/\_images/how-to-%EC%A0%84%EC%9E%85%EC%8B%A0%EA%B3%A0-002.png)
+### 2. 작성 자격확인
+
+작성 자격을 확인 후 ‘예’ 또는 ‘아니오’를 선택 해주세요.
+
+![](https://raw.githubusercontent.com/mzux/kiosk-jeju/main/forms/001-jonipssingo/\_imgs/how-to-001-jonipssingo-002.png)
 
 ### 3. 작성자의 세대주 여부를 확인해주세요.
 
