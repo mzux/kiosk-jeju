@@ -1,4 +1,3 @@
 # 인증방법
 
-![](../.gitbook/assets/how-to-001-jonipssingo-006.png)
-
+![](../forms/001-jonipssingo/\_imgs/how-to-001-jonipssingo-006.png)
