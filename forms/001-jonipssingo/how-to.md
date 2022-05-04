@@ -4,7 +4,7 @@
 
 ### 1. 홈 화면에서 주민등록 전입신고 서식을 선택해주세요.
 
-![](https://raw.githubusercontent.com/mzux/kiosk-jeju/main/\_images/how-to-%EC%A0%84%EC%9E%85%EC%8B%A0%EA%B3%A0-001.png)
+![](../../.gitbook/assets/how-to-전입신고-001.png)
 
 ### 2. 작성 자격을 확인 후 ‘예’ 또는 ‘아니오’를 선택 해주세요.
 
