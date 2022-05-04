@@ -31,10 +31,10 @@
 * [17. 출산서비스 통합처리 신청서](forms/017-chulsan-service/README.md)
 * [18. 사망 신고서](forms/018-samang-singo/README.md)
 * [19. 이혼(친권자 지정)신고서](forms/019-ihon-singo/README.md)
-* [20. 장애인 등록 신청](forms/020- jangaein_dk_sinchong/README.md)
-* [21. 장애인등록증 재발급](forms/021- jangaein_dk_jaebalgeup/README.md)
+* [\[20. 장애인 등록 신청\](forms/020- jangaein\_dk\_sinchong/README.md)](forms/20.-forms-020-jangaein\_dk\_sinchong-readme.md.md)
+* [\[21. 장애인등록증 재발급\](forms/021- jangaein\_dk\_jaebalgeup/README.md)](forms/21.-forms-021-jangaein\_dk\_jaebalgeup-readme.md.md)
 * [22. 등록기준지 변경](forms/022-deungnokkkijunji/README.md)
-* [23. 장애인 전용 주차구역 주차표지 발급(재발급) 신청서](forms/023-jangaein_juchapyoji /README.md)
+* [\[23. 장애인 전용 주차구역 주차표지 발급(재발급) 신청서\](forms/023-jangaein\_juchapyoji /README.md)](forms/23.-forms-023-jangaein\_juchapyoji-readme.md.md)
 * [24. 장애인 활동지원신청서](forms/024-jangaein-hwaldongjiwon/README.md)
 * [25. 디딤씨앗통장 지원 신청서](forms/025-didimssiattongjang/README.md)
 
