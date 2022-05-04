@@ -25,4 +25,4 @@
 
 ## 문제 발생 <a href="#support" id="support"></a>
 
-* [연락처](contact.md)
+* [연락처](support/contact.md)
