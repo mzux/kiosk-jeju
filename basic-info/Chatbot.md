@@ -16,7 +16,7 @@
 
 홈 화면에서 주민등록 전입신고 서식을 선택해주세요.
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (2) (1).png>)
 
 ### 3. 궁금한것 묻기
 

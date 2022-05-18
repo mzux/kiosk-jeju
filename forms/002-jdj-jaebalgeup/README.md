@@ -8,10 +8,10 @@
 
 작성 자격을 확인 후 ‘예’ 또는 ‘아니오’를 선택 해주세요.
 
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (3) (1).png>)
 
 ### 3. 유의사항 확인 및 동의
 
 유의사항을 하나씩 확인하고 네 또는 확인 버튼을 눌러 동의해주세요
 
-![](<../../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (1) (1).png>)
