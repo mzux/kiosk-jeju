@@ -6,8 +6,6 @@
 
 홈 화면에서 주민등록 전입신고 서식을 선택해주세요.
 
-![](https://raw.githubusercontent.com/mzux/kiosk-jeju/main/forms/001-jonipssingo/\_imgs/how-to-001-jonipssingo-001.png)
-
 ### 2. 작성 자격확인
 
 작성 자격을 확인 후 ‘예’ 또는 ‘아니오’를 선택 해주세요.
