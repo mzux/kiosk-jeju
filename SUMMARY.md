@@ -5,7 +5,9 @@
 * [지능형 민원서식 작성 도우미](README.md)
   * [키오스크](basic-info/kiosk.md)
   * [챗봇](basic-info/Chatbot.md)
-  * [인증방법](basic-info/Authentication.md)
+  * [인증방법](index/readme/authentication/README.md)
+    * [PASS](index/readme/authentication/pass.md)
+    * [모바일 신분증](index/readme/authentication/undefined.md)
 
 ## 민원서식 작성 방법 <a href="#forms" id="forms"></a>
 
