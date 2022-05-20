@@ -28,7 +28,9 @@
 
 PASS 인증의 경우 주민번호를 별도로 입력해주세요.
 
-![](https://raw.githubusercontent.com/mzux/kiosk-jeju/main/\_images/how-to-%EC%A0%84%EC%9E%85%EC%8B%A0%EA%B3%A0-001.png)
+
+
+![](<../../.gitbook/assets/image (1) (1).png>)
 
 ### 7. 전입신고에서 작성할 문서를 선택해주세요.
 
