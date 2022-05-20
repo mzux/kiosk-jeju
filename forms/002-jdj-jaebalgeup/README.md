@@ -61,7 +61,7 @@
 
 안내에 따라 서명합니다.
 
-![](<../../.gitbook/assets/image (9).png>)
+![](<../../.gitbook/assets/image (9) (1).png>)
 
 ![](<../../.gitbook/assets/image (2).png>)
 
