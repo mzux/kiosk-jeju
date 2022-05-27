@@ -8,7 +8,7 @@
 
 작성 자격을 확인 후 ‘예’ 또는 ‘아니오’를 선택 해주세요.
 
-![](<../../.gitbook/assets/image (3) (1) (1).png>)
+![](<../../.gitbook/assets/image (3) (1) (1) (1).png>)
 
 ### 3. 유의사항 확인 및 동의
 
@@ -22,7 +22,7 @@
 
 
 
-![](../../.gitbook/assets/공통\_본인인증)
+![](<../../.gitbook/assets/image (3).png>)
 
 ### 5. 신청인 정보 확인 <a href="#4." id="4."></a>
 
@@ -55,13 +55,13 @@
 
 선택한 내용을 확인하고 완료되면 **다음** 버튼을 누릅니다.
 
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (3) (1).png>)
 
 ### 10. 서명하기
 
 안내에 따라 서명합니다.
 
-![](<../../.gitbook/assets/image (9) (1).png>)
+![](<../../.gitbook/assets/image (9) (1) (1).png>)
 
 ![](<../../.gitbook/assets/image (2).png>)
 
@@ -69,4 +69,4 @@
 
 작성 완료 버튼을 눌러 서류 작성을 끝냅니다.
 
-![](<../../.gitbook/assets/공통\_서류 작성이 끝났습니다.png>)
+![](<../../.gitbook/assets/image (4).png>)

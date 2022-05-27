@@ -32,7 +32,7 @@
 
 
 
-![](../../.gitbook/assets/공통\_본인인증)
+![](<../../.gitbook/assets/image (3).png>)
 
 ### 6. 신청인 정보 확인 <a href="#4." id="4."></a>
 
@@ -58,5 +58,5 @@
 
 작성 완료 버튼을 눌러 서류 작성을 끝냅니다.
 
-![](<../../.gitbook/assets/공통\_서류 작성이 끝났습니다.png>)
+![](<../../.gitbook/assets/image (4).png>)
 
