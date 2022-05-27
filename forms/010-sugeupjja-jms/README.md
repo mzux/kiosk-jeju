@@ -14,7 +14,7 @@
 
 유의사항을 하나씩 확인하고 네 또는 확인 버튼을 눌러 동의해주세요
 
-![](../../.gitbook/assets/공통\_유의사항.png)
+![](<../../.gitbook/assets/image (4).png>)
 
 ### 4. 인증하기
 
@@ -22,13 +22,13 @@
 
 
 
-![](../../.gitbook/assets/공통\_인증방법선택)
+![](<../../.gitbook/assets/image (3).png>)
 
 ### 5. 수급자 정보 입력 <a href="#4." id="4."></a>
 
 본인인증을 통해 자동으로 입력된 내용을 확인하고, 다른 부분이 있으면 수정합니다.
 
-![](<../../.gitbook/assets/image (9).png>)
+![](<../../.gitbook/assets/image (9) (1).png>)
 
 ### 6. 수급자 구분 선택
 

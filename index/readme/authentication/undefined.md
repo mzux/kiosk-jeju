@@ -29,5 +29,5 @@ PASS로 인증하거나&#x20;
 PASS로 인증하기를 선택했을 때 QR 코드로 인증하기 버튼을 터치하면 스마트폰의 카메라를 사용해 QR코드 인증을 할 수 있습니다.
 {% endhint %}
 
-![](<../../../.gitbook/assets/image (3) (1).png>)
+![](<../../../.gitbook/assets/image (3) (1) (1).png>)
 
