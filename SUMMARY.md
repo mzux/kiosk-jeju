@@ -17,7 +17,7 @@
   * [전입신고 작성 방법](forms/001-jonipssingo/how-to.md)
 * [2. 주민등록증 재발급신청](forms/002-jdj-jaebalgeup/README.md)
 * [3. 주민등록 전입세대 열람 신청](forms/003-jd-yolram/README.md)
-* [4. 사회보장급여 신청(변경)서](forms/004-sahwebojang/README.md)
+* [4. 사회보장급여 신청(변경)](forms/004-sahwebojang/README.md)
 * [5. 출생 신고서](forms/005-chulsaeng-singoso/README.md)
 * [6. 문화이용권 신청서](forms/006-munhwaiyong/README.md)
 * [7. 사망자 등 재산조회 통합 처리 신청](forms/007-jaesanjohwe/README.md)
