@@ -25,7 +25,7 @@
 * [9. 정정.말소.거주불명 등록신고서](forms/009-gojubulmyong/README.md)
 * [10. 수급자 증명서 발급 신청서](forms/010-sugeupjja-jms/README.md)
 * [11. 한부모 가족 증명서 발급 신청](forms/011-hanbumo/README.md)
-* [12. 담배 소매인지정신청](forms/012-dambae/README.md)
+* [12. 담배 소매인 지정신청](forms/012-dambae/README.md)
 * [13. 어디서나 민원](forms/013-odisona-minwon/README.md)
 * [14. 사회보장급여 (사회서비스이용권) 신청(변경)서](forms/014-sahwebojanggeubyo/README.md)
 * [15. 체류지 변경신고(통합 신청서)](forms/015-cheryuji-byongyong/README.md)
