@@ -30,7 +30,7 @@
 
 
 
-![](<../../.gitbook/assets/image (3).png>)
+![](../../.gitbook/assets/공통\_본인인증)
 
 ### 6. 수급자 정보 입력 <a href="#4." id="4."></a>
 
