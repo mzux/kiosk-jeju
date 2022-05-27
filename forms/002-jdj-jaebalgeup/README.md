@@ -22,7 +22,7 @@
 
 
 
-![](<../../.gitbook/assets/image (1) (1) (1).png>)
+![](../../.gitbook/assets/공통\_인증방법선택)
 
 ### 5. 신청인 정보 확인 <a href="#4." id="4."></a>
 
