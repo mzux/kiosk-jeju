@@ -14,7 +14,7 @@
 
 유의사항을 하나씩 확인하고 네 또는 확인 버튼을 눌러 동의해주세요
 
-![](<../../.gitbook/assets/image (1) (1) (1).png>)
+![](../../.gitbook/assets/공통\_유의사항.png)
 
 ### 4. 인증하기
 
@@ -22,7 +22,7 @@
 
 
 
-![](<../../.gitbook/assets/image (1) (1).png>)
+![](<../../.gitbook/assets/image (1) (1) (1).png>)
 
 ### 5. 수급자 정보 입력 <a href="#4." id="4."></a>
 
@@ -46,7 +46,7 @@
 
 조항 내용을 확인하고 서명합니다.
 
-![](<../../.gitbook/assets/image (10).png>)
+![](<../../.gitbook/assets/image (10) (1).png>)
 
 ### 9. 작성 완
 
