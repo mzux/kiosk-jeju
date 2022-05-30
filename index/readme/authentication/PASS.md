@@ -15,13 +15,13 @@
 
 휴대폰 인증을 선택하고 나타나는 창에서 통신사를 선택하고 동의서에 전체 동의합니다.
 
-![](<../../.gitbook/assets/image (1).png>)
+![](<../../../.gitbook/assets/image (1).png>)
 
 ### 2. 인증방법 선택
 
 PASS로 인증하거나&#x20;
 
-![](<../../.gitbook/assets/image (4) (1) (1).png>)
+![](<../../../.gitbook/assets/image (4) (1) (1).png>)
 
 ### 2-1. PASS에서 QR 코드로 인증하기
 
@@ -29,5 +29,5 @@ PASS로 인증하거나&#x20;
 PASS로 인증하기를 선택했을 때 QR 코드로 인증하기 버튼을 터치하면 스마트폰의 카메라를 사용해 QR코드 인증을 할 수 있습니다.
 {% endhint %}
 
-![](<../../.gitbook/assets/image (3) (1) (1).png>)
+![](<../../../.gitbook/assets/image (3) (1) (1).png>)
 

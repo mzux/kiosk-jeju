@@ -1,11 +1,11 @@
 # Table of contents
 
 * [지능형 민원서식 작성 도우미](README.md)
-  * [키오스크](index/kiosk.md)
-  * [챗봇](index/chatbot.md)
-  * [인증방법](index/authentication/README.md)
-    * [휴대폰 인증](index/authentication/pass.md)
-    * [모바일 신분증](index/authentication/mobile\_id.md)
+  * [키오스크](basic-info/kiosk.md)
+  * [챗봇](basic-info/Chatbot.md)
+  * [인증방법](index/readme/authentication/README.md)
+    * [휴대폰 인증](index/readme/authentication/PASS.md)
+    * [모바일 신분증](index/readme/authentication/mobile\_ID.md)
 
 ## 민원서식 작성 방법 <a href="#forms" id="forms"></a>
 
