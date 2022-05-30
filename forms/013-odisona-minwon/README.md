@@ -14,7 +14,7 @@
 
 유의사항 등의 서류를 하나씩 확인하고 네 또는 확인 버튼을 눌러 동의해주세요.
 
-![](<../../.gitbook/assets/image (1) (1) (1).png>)
+![](../../.gitbook/assets/공통\_유의사항.png)
 
 
 
@@ -24,7 +24,7 @@
 
 
 
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/공통\_인증 방법 선택.png>)
 
 ### 5. 제공 서비스 선택 <a href="#4." id="4."></a>
 
