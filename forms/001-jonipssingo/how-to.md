@@ -8,11 +8,9 @@
 
 작성 자격을 확인 후 ‘네’ 또는 ‘아니오’를 선택 해주세요.
 
-![](https://raw.githubusercontent.com/mzux/kiosk-jeju/main/forms/001-jonipssingo/\_imgs/how-to-001-jonipssingo-002.png)
+![](<../../.gitbook/assets/2. 전입신고 작성 방법\_대상자 확인.png>)
 
 ### 3. 작성자의 세대주 여부를 확인해주세요.
-
-![](https://raw.githubusercontent.com/mzux/kiosk-jeju/main/\_images/how-to-%EC%A0%84%EC%9E%85%EC%8B%A0%EA%B3%A0-003.png)
 
 ### 4. 주민등록 전입신고의 유의사항을 읽고 확인 버튼을 눌러주세요.
 
