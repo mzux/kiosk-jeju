@@ -22,7 +22,7 @@
 
 
 
-![](<../../.gitbook/assets/공통\_인증 방법.png>)
+![](<../../.gitbook/assets/image (3).png>)
 
 ### 5. 신청 정보 입력 <a href="#4." id="4."></a>
 
