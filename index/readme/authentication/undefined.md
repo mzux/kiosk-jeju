@@ -21,7 +21,7 @@
 
 PASS로 인증하거나&#x20;
 
-![](<../../../.gitbook/assets/image (4) (1).png>)
+![](<../../../.gitbook/assets/image (4) (1) (1).png>)
 
 ### 2-1. PASS에서 QR 코드로 인증하기
 

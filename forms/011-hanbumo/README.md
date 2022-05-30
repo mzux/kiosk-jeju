@@ -30,7 +30,7 @@
 
 
 
-![](<../../.gitbook/assets/공통\_인증 방법 선택.png>)
+![](<../../.gitbook/assets/image (3).png>)
 
 ### 6. 수급자 정보 입력 <a href="#4." id="4."></a>
 
@@ -54,4 +54,4 @@
 
 작성 완료 버튼을 눌러 신청을 완료합니다.
 
-![](<../../.gitbook/assets/image (4).png>)
+![](<../../.gitbook/assets/image (4) (1).png>)
