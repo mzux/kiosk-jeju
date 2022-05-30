@@ -9,7 +9,7 @@
 
 ## 민원서식 작성 방법 <a href="#forms" id="forms"></a>
 
-* [작성 가능 민원서식](forms/README.md)
+* [작성 가능 민원서식](forms/Available.md)
 * [1. 전입신고](forms/001-jonipssingo/README.md)
   * [전입신고 조건 가이드](forms/001-jonipssingo/guide.md)
   * [전입신고 작성 방법](forms/001-jonipssingo/how-to.md)
