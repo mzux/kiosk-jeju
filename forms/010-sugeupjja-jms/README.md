@@ -22,7 +22,7 @@
 
 
 
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/공통\_인증 방법.png>)
 
 ### 5. 수급자 정보 입력 <a href="#4." id="4."></a>
 

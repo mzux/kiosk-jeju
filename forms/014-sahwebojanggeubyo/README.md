@@ -22,7 +22,7 @@
 
 
 
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/공통\_인증 방법.png>)
 
 ### 5. 신청인 정보 작성
 
