@@ -14,7 +14,7 @@
 
 유의사항 등의 서류를 하나씩 확인하고 네 또는 확인 버튼을 눌러 동의해주세요.
 
-![](<../../.gitbook/assets/image (4).png>)
+![](<../../.gitbook/assets/image (1) (1) (1).png>)
 
 
 
@@ -22,7 +22,7 @@
 
 휴대폰 인증 또는 모바일 신분증을 선택해 인증을 완료합니다.
 
-![](<../../.gitbook/assets/image (4).png>)
+![](<../../.gitbook/assets/image (1) (1) (1).png>)
 
 
 
@@ -74,4 +74,4 @@
 
 작성 완료 버튼을 눌러 신청을 완료합니다.
 
-![](<../../.gitbook/assets/image (4) (1).png>)
+![](<../../.gitbook/assets/image (4).png>)

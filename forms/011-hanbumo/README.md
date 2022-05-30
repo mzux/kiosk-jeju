@@ -54,4 +54,4 @@
 
 작성 완료 버튼을 눌러 신청을 완료합니다.
 
-![](<../../.gitbook/assets/image (4) (1).png>)
+![](<../../.gitbook/assets/image (4).png>)
