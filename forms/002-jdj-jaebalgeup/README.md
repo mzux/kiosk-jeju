@@ -14,7 +14,7 @@
 
 유의사항을 하나씩 확인하고 네 또는 확인 버튼을 눌러 동의해주세요
 
-![](<../../.gitbook/assets/image (4).png>)
+![](<../../.gitbook/assets/image (1) (1) (1).png>)
 
 ### 4. 인증하기
 
@@ -47,7 +47,7 @@
 
 선택이 모두 끝나면 **작성완료** 버튼을 누릅니다.
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (1).png>)
 
 ### 9. 입력내용 확인 <a href="#4." id="4."></a>
 
@@ -67,4 +67,4 @@
 
 작성 완료 버튼을 눌러 서류 작성을 끝냅니다.
 
-![](<../../.gitbook/assets/image (4) (1).png>)
+![](<../../.gitbook/assets/image (4).png>)

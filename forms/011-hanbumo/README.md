@@ -8,7 +8,7 @@
 
 작성 자격을 확인 후 ‘예’ 또는 ‘아니오’를 선택 해주세요.
 
-![](<../../.gitbook/assets/image (11).png>)
+![](<../../.gitbook/assets/image (11) (1).png>)
 
 ### 3.  대리인의 작성 자격 확인
 
@@ -54,4 +54,4 @@
 
 작성 완료 버튼을 눌러 신청을 완료합니다.
 
-![](<../../.gitbook/assets/image (4) (1).png>)
+![](<../../.gitbook/assets/image (4).png>)
